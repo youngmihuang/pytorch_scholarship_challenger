@@ -1,7 +1,7 @@
 # pytorch_scholarship_challenger
 final project to practice the transfer learning (use pre-trained model) 
 
-- Special thanks to this article:blush: <a href=https://medium.com/datadriveninvestor/creating-a-pytorch-image-classifier-da9db139ba80>  **Creating a PyTorch Image Classifier** </a>
+- Special thanks to this article <a href=https://medium.com/datadriveninvestor/creating-a-pytorch-image-classifier-da9db139ba80>  **Creating a PyTorch Image Classifier** </a> :blush:
 
 
 1. flower_data/
